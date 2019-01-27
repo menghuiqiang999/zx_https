@@ -1,0 +1,25 @@
+{
+  "name": "zx_https",
+  "version": "1.0.0",
+  "description": "提供https的get和post方法",
+  "main": "Https.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:zx7/zx_https.git"
+  },
+  "keywords": [
+    "zx_https",
+    "https",
+    "post",
+    "get",
+    "zx_get",
+    "zx_post",
+    "https_get",
+    "https_post"
+  ],
+  "author": "zx",
+  "license": "MIT"
+}
